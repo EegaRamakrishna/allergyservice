@@ -8,7 +8,7 @@ pipeline{
 
 					steps{
 
-						git branch: "main", url: 'https://github.com/EegaRamakrishna/pms-microservices.git'
+						git branch: "main", url: 'https://github.com/EegaRamakrishna/allergyservice.git'
 
 						}
 
